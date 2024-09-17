@@ -2,9 +2,9 @@
 
 ## I`m begginer devoloper🎉💻
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kal3s&show_icons=true&theme=radical)](https://github.com/Kal3s/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kal3s&show_icons=true&theme=radical)](https://github.com/Kal3s)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kal3s&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kal3s&layout=compact&theme=radical)](https://github.com/Kal3s)
 
 ### Language
 ![C](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296cc)
